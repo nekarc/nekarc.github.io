@@ -1,8 +1,29 @@
-- slug: design
-  name: Design
+- slug: travel
+  name: Travel
 
-- slug: tools
-  name: Tools
+- slug: books
+  name: Books
+
+- slug: japanese
+  name: JP
 
 - slug: productivity
-  name: Productivity
+  name: Prod
+
+- slug: games
+  name: Games
+
+- slug: genshin
+  name: Genshin
+
+- slug: tv
+  name: TV
+
+- slug: tech
+  name: Tech
+
+- slug: personal
+  name: Personal
+
+- slug: others
+  name: Others

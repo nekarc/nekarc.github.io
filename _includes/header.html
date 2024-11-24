@@ -3,8 +3,8 @@
         <a href="/" class="logo">{{ site.title }}</a>
 
         <ul class="menu">
-            <li class="menu__entry"><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
-            <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">Blog</a></li>
+            <li class="menu__entry"><a href="{{ '/about' | prepend: site.baseurl }}">about</a></li>
+            <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">blog</a></li>
         </ul>
     </div>
 
@@ -18,6 +18,18 @@
         {% if site.author.twitter %}
             <a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
                 <i class="fa fa-twitter"></i>
+            </a>
+        {% endif %}
+
+        {% if site.author.mal %}
+            <a href="{{ site.author.mal }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-link"></i>
+            </a>
+        {% endif %}
+
+        {% if site.author.mdl %}
+            <a href="{{ site.author.mdl }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-ticket"></i>
             </a>
         {% endif %}
     </ul>

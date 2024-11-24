@@ -1,18 +1,19 @@
 # Site settings
-title: Daktilo
+title: nekola
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A personal blogging and documentation site for my own reference.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "https://nekarc.github.io/" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
+  fullname: nekarc
+  mdl: https://mydramalist.com/profile/9240921
+  mal: https://anilist.co/user/nekola/animelist
+  steam: https://steamcommunity.com/id/nek01a/
+  # discord: 
+  # github: kronik3r
+  # twitter: electrik_frog
   # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
@@ -27,3 +28,5 @@ exclude: ["README.md", "README.html"]
 # Build settings
 highlighter: null
 markdown: kramdown
+
+permalink: /:categories/:title/

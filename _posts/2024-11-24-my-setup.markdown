@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "My Setup"
+subtitle: "Sub-heading"
+date:   2024-11-24
+categories: [personal]
+---
+
+--- CONTENT ---
