@@ -4,7 +4,7 @@ description: >
   A personal blogging and documentation site for my own reference.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://nekarc.github.io/" # the base hostname & protocol for your site
+url: "http://nekola.cc/" # the base hostname & protocol for your site
 
 author:
   fullname: nekarc
