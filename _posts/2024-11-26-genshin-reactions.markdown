@@ -85,18 +85,18 @@ Each element interacts differently depending on the combination, leading to uniq
 1. Melt
 - Cryo applied first, then Pyro: 2x Damage
 - Pyro applied first, then Cryo: 1.5x Damage
-- Example: If you use Ganyu's Frostflake Arrow (Cryo) first and then follow with Hu Tao’s Charged Attack (Pyro), you’ll get a 2x damage multiplier, making it the optimal sequence for maximum damage.
+- Example: If you use Ganyu's Frostflake Arrow (Cryo) first and then follow with Hu Tao's Charged Attack (Pyro), you'll get a 2x damage multiplier, making it the optimal sequence for maximum damage.
 
 2. Vaporize
 - Hydro applied first, then Pyro: 2x Damage
 - Pyro applied first, then Hydro: 1.5x Damage
-- Example: Pairing Xingqiu's Rain Swords (Hydro) with Hu Tao’s Charged Attack (Pyro) ensures the Hydro is applied first, allowing Hu Tao to trigger a 2x multiplier on Vaporize.
+- Example: Pairing Xingqiu's Rain Swords (Hydro) with Hu Tao's Charged Attack (Pyro) ensures the Hydro is applied first, allowing Hu Tao to trigger a 2x multiplier on Vaporize.
 
 3. Overloaded, Superconduct, Swirl, and Others
 - These reactions don't have asymmetric multipliers — they deal a flat amount of damage regardless of the order. However, timing and positioning still matter, as these reactions often cause knockback or AoE effects that can disrupt enemy positioning.
 
 4. Dendro Reactions: Bloom, Hyperbloom, and Burgeon
-- While Dendro-related reactions like Bloom are generally independent of application order, the triggering element (Pyro for Burgeon or Electro for Hyperbloom) decides the secondary reaction’s effect.
+- While Dendro-related reactions like Bloom are generally independent of application order, the triggering element (Pyro for Burgeon or Electro for Hyperbloom) decides the secondary reaction's effect.
 - Example: Apply Dendro with Nahida, then Hydro with Kokomi to create Bloom (Dendro Cores). Then use an Electro character like Fischl to trigger Hyperbloom, or a Pyro character like Thoma for Burgeon.
 
 5. Order in Quicken Variants (Spread/Aggravate)
