@@ -30,4 +30,4 @@ Luma Island feels like a cozy escape with just the right amount of challenge to 
 
 I can’t wait to dive deeper into what Luma Island has to offer!
 
-![image](/assets/images/2024-11-26-luma-island-2.png)
+![image](/assets/images/2024-11-26-luma-island/2024-11-26-luma-island-2.png)
