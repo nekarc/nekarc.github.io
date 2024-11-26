@@ -2,7 +2,7 @@
 layout: post
 title:  "Luma Island - First thoughts!"
 subtitle: "A Cozy and Engaging Escape"
-date:   2024-11-26
+date:   2024-11-26 00:00:00
 categories: [games]
 ---
 
