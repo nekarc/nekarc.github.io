@@ -21,13 +21,13 @@ Genshin Impact features seven elements:
 Each element interacts differently depending on the combination, leading to unique effects. Some are damage-focused, while others control enemy movement or provide utility.
 
 
-**Damage-Oriented Reactions**
+## Damage-Oriented Reactions
 
 1. Overloaded
 - Elements: Pyro + Electro
 - Effect: Deals AoE Pyro damage.
 - Best Against: Groups of enemies, especially those with physical shields.
-- Tips: Use Overloaded to break wooden shields or stagger enemies, but be cautious of its knockback, which can scatter foes.
+- Tips: Use Overloaded to break shields or stagger enemies, but be cautious of its knockback, which can scatter foes.
 2. Vaporize
 - Elements: Pyro + Hydro
 - Effect: Multiplies damage (1.5x or 2x depending on the order of elements).
@@ -44,7 +44,7 @@ Each element interacts differently depending on the combination, leading to uniq
 - Best Against: Physically built teams or shielded enemies.
 - Tips: Pair with physical DPS characters like Eula or Razor to take full advantage of the resistance shred.
 
-**Utility Reactions**
+## Utility Reactions
 
 1. Swirl
 - Elements: Anemo + Any (Pyro, Hydro, Cryo, Electro)
@@ -57,7 +57,7 @@ Each element interacts differently depending on the combination, leading to uniq
 - Best Against: Situations requiring defense or protection.
 - Tips: Pair with Geo characters like Zhongli for stronger shields or Noelle for hybrid utility.
 
-**Dendro Reactions**
+## Dendro Reactions
 
 1. Burning
 - Elements: Dendro + Pyro
@@ -80,7 +80,7 @@ Each element interacts differently depending on the combination, leading to uniq
 - Effect: Creates a buffed state where additional Electro or Dendro triggers Aggravate (Electro bonus damage) or Spread (Dendro bonus damage).
 - Tips: Build high Elemental Mastery on the reaction-triggering character for maximum damage.
 
-**Elemental Reactions Where Order Matters**
+## Elemental Reactions Where Order Matters
 
 1. Melt
 - Cryo applied first, then Pyro: 2x Damage

@@ -8,11 +8,11 @@ categories: [games]
 
 Stepping into the world of Luma Island feels like wrapping yourself in a warm blanket while still being encouraged to stay on your toes. This life-simulation game has quickly become one of my go-to escapes, offering a balance of calming gameplay and just enough engagement to keep things interesting. After playing for around 20 in-game days (and restarting a couple of times), here are my initial impressions.
 
-**A Cozy Yet Engaging Experience**
+## A Cozy Yet Engaging Experience
 
 What immediately stands out about Luma Island is its cozy atmosphere. The visuals are vibrant and inviting, the soundtrack is soothing, and the gameplay flows in a way that feels relaxing without ever becoming dull. Whether I'm exploring the island, gathering resources, or completing quests, there's always something to do — but never at a pace that feels overwhelming.
 
-**First Impressions**
+## First Impressions
 
 The game's story unfolds gradually, weaving themes of discovery, connection, and perhaps a touch of mystery. It's not heavy-handed but instead invites you to piece things together through interactions with characters and the environment.
 
@@ -24,7 +24,7 @@ The pets add an extra layer of charm and companionship to the game. They're not 
 
 Another standout mechanic is the day-night cycle, which influences not just the visuals but also the gameplay. Certain creatures and quests only appear at specific times, adding a strategic element to exploration and planning.
 
-**Final Thoughts**
+## Final Thoughts
 
 Luma Island feels like a cozy escape with just the right amount of challenge to keep you engaged. It's a game that invites you to relax, explore, and uncover its secrets at your own pace. If you're someone who loves vibrant worlds and lighthearted adventures, this might just be the game for you.
 

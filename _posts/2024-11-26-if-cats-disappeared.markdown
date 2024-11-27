@@ -12,7 +12,7 @@ It's not merely a movie I admire — it's my most favorite movie of all time. So
 
 This isn't just a story about cats; it's a story about what it means to live, love, and let go.
 
-**A Deal with the Devil**
+## A Deal with the Devil
 
 The premise is deceptively simple yet profound. The story follows a young postman who discovers he has a terminal illness. Just as he begins to grapple with his mortality, the Devil appears with a sinister bargain: he can extend his life by one day for every item he agrees to erase from the world.
 
@@ -22,7 +22,7 @@ Cats in the film are more than just adorable companions. They symbolize the unsp
 
 When the prospect of erasing cats arises, the protagonist is forced to confront what truly matters. The film delicately explores how the things we take for granted — whether an animal, a memory, or a shared moment — anchor us to our humanity.
 
-**Themes That Linger**
+## Themes That Linger
 
 *If Cats Disappeared from the World* lingers in the mind long after the credits roll, its themes weaving a tapestry of introspection:
 
@@ -34,17 +34,17 @@ When the prospect of erasing cats arises, the protagonist is forced to confront 
 
 > When you lose something, you realize just how much you needed it. And sometimes, you never get the chance to say goodbye.
 
-**A Cinematic Masterpiece**
+## A Cinematic Masterpiece
 
 Visually, the film is breathtaking. Director Akira Nagai crafts a visually stunning film, using muted tones and intimate framing to convey the protagonist's introspection and create an atmosphere of quiet reflection. The cat, Cabbage, is a scene-stealer, its quiet presence underscoring moments of tenderness and sorrow. The performances, particularly by Takeru Satoh as the protagonist and the Devil, bring depth and charm to this introspective tale.
 
-**A Personal Take**
+## My Personal Take
 
 This movie isn't just a story — it's a reminder to cherish the fleeting moments of life. It doesn't offer easy answers, and that's precisely what makes it so impactful. It asks us to sit with uncomfortable truths, contemplate the impermanence of everything we hold dear, and find meaning in our everyday lives.
 
 For me, *If Cats Disappeared from the World* is more than a favorite movie — it's a guiding light. It's inspired me not only to reflect on my own life but also to embark on a journey of learning Japanese so I can experience the story in its purest form.
 
-**Final Thoughts**
+## Final Thoughts
 
 This is a film for anyone who has ever loved, lost, or wondered what makes life truly meaningful. Its themes of connection, sacrifice, and acceptance resonate universally, making it a bittersweet yet profoundly beautiful experience.
 
