@@ -20,6 +20,11 @@ p {
     line-height: 32px;
 }
 
+li {
+    font-size: 20px;
+    line-height: 32px;
+}
+
 img {
     margin: 40px auto;
     display: block;
@@ -167,7 +172,6 @@ strong {
 .post-teaser__date {
     font-size: 16px;
     float: right;
-    vertical-align: middle;
     color: $cloudy;
 }
 
