@@ -5,10 +5,7 @@
   name: Books
 
 - slug: japanese
-  name: JP
-
-- slug: productivity
-  name: Prod
+  name: Japanese
 
 - slug: games
   name: Games
