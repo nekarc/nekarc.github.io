@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Hiragana"
+subtitle: "Overview"
+date:   2024-11-28
+categories: [japanese]
+---
+
+
+
+
+![image](/assets/images/2024-11-28-kana/2024-11-28-kana-2.jpg)
